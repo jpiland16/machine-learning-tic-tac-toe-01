@@ -1,0 +1,2 @@
+500000 trials completed. X wins 34.31%, O wins 21.78%, draws 43.91%
+Ran with learning rate 0.25.

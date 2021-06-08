@@ -1,0 +1,3 @@
+101454 trials completed. X wins 34.19%, O wins 13.17%, draws 52.63%
+Ran with learning rate 10, bound ratio 10.
+On last batch, draw ratio was up to 100%.
