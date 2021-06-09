@@ -1,4 +1,3 @@
-from os import X_OK
 from AI import get_ai_move
 from TicTacToe import GameState, get_game_from_int, is_valid_state
 from Interface import confirm, input_number
